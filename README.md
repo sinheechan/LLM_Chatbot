@@ -2,6 +2,12 @@
 
 <br/><br/>
 
+## Link
+
+- 서울과학기술대학교 , Teddysum , 연세대 MLPLab 에서 개발한 모델입니다.
+
+<br/><br/>
+
 ## Model Introduce
 
 <br/>
